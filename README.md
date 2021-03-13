@@ -1,4 +1,4 @@
-# **ISAC 👁👄👁**
+# ISAC 👁👄👁
 ~~~js
 const IsacLuna ={
    pronouns: "He"|"Him"
