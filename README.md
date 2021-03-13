@@ -8,4 +8,4 @@ const IsacLuna ={
  }
 ~~~
 ### I'm Listening to: 
-[![Spotify](https://novatorem-isacluna.vercel.app/api/spotify)](https://open.spotify.com/user/Isac_Luna_Vázquez)
+[![Spotify](https://novatorem-isacluna.vercel.app/api/spotify)](https://open.spotify.com/user/22wcygppmdwded6zljpbpqmfy)
