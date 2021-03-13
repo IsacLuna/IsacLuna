@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**IsacLuna/IsacLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦮🦮
+~~~js
+const IsacLuna ={
+   pronouns: "He"|"Him"
+   code: [Only C]
+   learning: [Python]
+ }
+~~~
+### I'm Listening to: 
+[![Spotify](https://novatorem-isacluna.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
