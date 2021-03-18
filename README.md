@@ -1,4 +1,4 @@
-<h1 align = "center">👁👄👁 ISAC 👁👄👁</h1>
+<h1 align = "center">👁👄👁 SIMPLY ISAC 👁👄👁</h1>
    
 ~~~js
 const IsacLuna ={
