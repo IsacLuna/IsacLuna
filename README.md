@@ -5,6 +5,7 @@ const IsacLuna ={
    pronouns: "He"|"Him"
    code: [Only C]
    learning: [Python]
+   hobbies: See series jiji
  }
 ~~~
 
