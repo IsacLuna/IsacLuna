@@ -10,10 +10,9 @@ const IsacLunaVazquez ={
    hobbies: See series jiji
  }
 ~~~
+<img align = "right" alt = "GIF" heigth = "300px" width = "300px" src = "GIF/Tortuga-Rascandose-78442.gif"> 
 
 <br />
-
-<img align = "right alt = "GIF heigth = "300px" width = "300px" src = "GIF/Tortuga-Rascandose-78442.gif">  
 
 <hr />
 
