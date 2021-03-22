@@ -1,6 +1,7 @@
 <h1 align = "center">👁👄👁 SIMPLY ISAC 👁👄👁</h1>
 
 <hr />
+
 ~~~js
 const IsacLunaVazquez ={
    pronouns: "He"|"Him"
@@ -9,6 +10,7 @@ const IsacLunaVazquez ={
    hobbies: See series jiji
  }
 ~~~
+
 <br />
 <hr />
 
