@@ -1,6 +1,7 @@
 <h1 align = "center">👁👄👁 SIMPLY ISAC 👁👄👁</h1>
 
 <hr />
+
 ~~~js
 const IsacLunaVazquez ={
    pronouns: "He"|"Him"
@@ -9,6 +10,7 @@ const IsacLunaVazquez ={
    hobbies: See series jiji
  }
 ~~~
+
 <br />
 
 <img align = "right alt = "GIF heigth = "300px" width = "300px" src = "GIF/Tortuga-Rascandose-78442.gif">  
