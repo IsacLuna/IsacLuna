@@ -13,11 +13,11 @@ const IsacLunaVazquez ={
 
 <hr />
 
-<img align = "right" alt = "GIF" heigth = "250px" width = "250px" src = "GIF/Tortuga-Rascandose-78442.gif"> 
+<img align = "right" alt = "GIF" heigth = "150px" width = "150px" src = "GIF/Tortuga-Rascandose-78442.gif"> 
 
-<p align = "left" style = "text-align : justify;">Hiiiii! 🦔, I'm Isac and I'm studying Science Computer. I want to learn more about of the programming languajes and IA. </p>
-<p align = "left" style = "text-align : justify;">This is something I'm changing with a lot of frecuency hehe.</p>
-<p align = "left" style = "text-align : justify;">Also I'm studying English so, if you see something bad in this text, please say me.</p>
+<h3 align = "left" style = "text-align : justify;">Hiiiii! 🦔, I'm Isac and I'm studying Science Computer. I want to learn more about of the programming languajes and IA. </h3>
+<h3 align = "left" style = "text-align : justify;">This is something I'm changing with a lot of frecuency hehe.</h3>
+<h3 align = "left" style = "text-align : justify;">Also I'm studying English so, if you see something bad in this text, please say me.</h3>
 
 
 
